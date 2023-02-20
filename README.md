@@ -1,5 +1,5 @@
 # s&bot
-simple bot to help claim a key from the asset.party torture service
+simple bot to help claim a key for s&box from the asset.party torture service
 - requires tampermonkey
 
 ## features
